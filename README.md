@@ -1,1 +1,2 @@
 # Image-Classification-using-Vision-Transformer
+A Vision Transformer model built to perform Image classification. CIFAR 100 dataset was used to build the model. The paper 'Image is worth 16x16 Words' was used as a reference to build the model. The model was able to serve the intended purpose. It was observed that pretraining the model on large datasets is most required for a transformer to classify efficiently.
