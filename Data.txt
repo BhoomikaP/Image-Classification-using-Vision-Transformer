@@ -1,0 +1,1 @@
+CIFAR-100 Dataset Link: https://www.cs.toronto.edu/~kriz/cifar.html
